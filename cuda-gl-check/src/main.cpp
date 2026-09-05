@@ -10,7 +10,6 @@
  * C main function.
  */
 int main(int argc, char* argv[]) {
-    // TODO: Change this line to use your name!
     m_yourName = "Darrel Dsouza";
 
     if (init(argc, argv)) {
